@@ -1,1 +1,1 @@
-:firworks:
+:fireworks:
