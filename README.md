@@ -1,6 +1,6 @@
 # Hello-World
 
-Just a few markdown emojis :arrow_down:. Cool.
+Just a few markdown emojis :arrow_down:.
 
 :tada: tada
 
